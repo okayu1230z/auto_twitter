@@ -7,10 +7,10 @@ import datetime
 from bs4 import BeautifulSoup
 # from dotenv import find_dotenv, load_dotenv
 
-api = twitter.Api(consumer_key="WbMVdi4evgEwo5MefQcxou0JZ",
-                  consumer_secret="uWDfxLwKJbG1h62XmOL0Fohxv0cAHk6r2wst3l8knX0gViRNSW",
-                  access_token_key="1131453470588882945-I1QKaVtlJlzmcRn94Gqf9icgFO2IO7",
-                  access_token_secret="gkF8viz8QWXletzlWhWr7eb4K3Zw2HjEmdE2Bv2YoRauD")
+api = twitter.Api(consumer_key="XXX",
+                  consumer_secret="XXX",
+                  access_token_key="XXX",
+                  access_token_secret="XXX")
 
 #t = twitter.Twitter(auth=auth)
 
